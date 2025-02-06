@@ -10,3 +10,19 @@
 .bg-light-green{
      background-color: rgba(171, 239, 95, 0.5);
 }
+
+.bg-light-purple{
+  background-color: rgba(231, 193, 211, 1);
+}
+.bg-light-yellow{
+  background-color: rgba(239, 218, 110, 1);
+}
+.bg-light-olive{
+  background-color: rgba(164, 218, 195, 1);
+}
+.bg-light-blue{
+  background-color: rgba(119, 170, 234, 1);
+}
+.card-para-text{
+   color: rgba(73, 73, 73, 1);
+}
