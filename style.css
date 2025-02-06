@@ -3,6 +3,10 @@
 .manrope{
      font-family: "Manrope"
 }
-.bg-tiya-green{
-     background-color: #ABEF5F;
+ .bg-tiya-green{
+      background-color: #ABEF5F; 
+} 
+
+.bg-light-green{
+     background-color: rgba(171, 239, 95, 0.5);
 }
